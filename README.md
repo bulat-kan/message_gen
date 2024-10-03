@@ -7,4 +7,4 @@
 * to run application you need to have node.js 
 * download the app and run it using command line, type:  node message.js
 
-*** TY for trying the app! ***
+***TY for trying the app!***
