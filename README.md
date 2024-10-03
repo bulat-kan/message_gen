@@ -1,9 +1,10 @@
-#Complement Factory! 
+# Complement Factory! 
 
-this app is designed to complement people! this app is for 18years old and up! 
+## Description:
+ This app is designed to complement people! this app is for 18years old and up! 
 
-to run application you need to have node.js 
+## Requirements and how to run it:
+* to run application you need to have node.js 
+* download the app and run it using command line, type:  node message.js
 
-download the app and run it using command line, type:  node message.js
-
-TY for trying the app! 
+*** TY for trying the app! ***
